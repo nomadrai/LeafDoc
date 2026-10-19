@@ -73,3 +73,11 @@ Detect               % Runs the standalone interactive script
 | `Extended_Dataset/` | Extended 13-class multi-crop leaf disease dataset (374 images across Corn, Potato, Tomato, Citrus, Grape, etc.) |
 | `Training_Data.mat` & `Accuracy_Data.mat` | Pre-trained feature matrices and class labels |
 | `documentation.PDF` | Reference documentation for the image processing and classification methodology |
+| `LICENSE` | MIT License |
+
+---
+
+## License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
