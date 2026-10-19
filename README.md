@@ -1,4 +1,4 @@
-# LeafDoc — Plant Leaf Disease Detection Using Image Processing (MATLAB)
+# LeafDoc: Plant Leaf Disease Detection Using Image Processing (MATLAB)
 
 A complete **Plant Leaf Disease Detection & Classification System** implemented in **MATLAB** using **CIE $L^*a^*b^*$ K-Means Color Clustering**, **GLCM (Gray-Level Co-occurrence Matrix) Texture & Statistical Feature Extraction (13 Features)**, **Multi-Class Support Vector Machine (SVM)** classification, and a **Universal Chromaticity & Symptom Morphology Analyzer** that works on any leaf image.
 
